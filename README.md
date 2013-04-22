@@ -3,6 +3,8 @@ EnhancedKick
 
 Kick extremely annoying players in a much more satisfying fashion
 
+Note: I use fully-qualified type names instead of imports because I made myself the challange to do this in as few lines as possible. It doesn't have any other reason.
+
 How to build
 ------------
 
