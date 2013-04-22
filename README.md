@@ -11,7 +11,7 @@ Just compile the EnhancedKick.java file with javac (don't forget to add bukkit t
 How to use
 ----------
 
-Just type /ckick <username> into chat. You will need the enhancedkick.kick permission.
+Just type /ckick \<username\> into chat. You will need the enhancedkick.kick permission.
 
 How this works
 --------------
