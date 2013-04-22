@@ -1,0 +1,8 @@
+name: EnhancedKick
+main: at.yawk.bukkit.enhancedkick.EnhancedKick
+version: 1.0
+description: Enhanced kicking for players that annoy you
+commands:
+    ckick:
+        description: Crash a player
+        usage: /ckick <username>
