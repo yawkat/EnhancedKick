@@ -6,3 +6,4 @@ commands:
     ckick:
         description: Crash a player
         usage: /ckick <username>
+        permission: enhancedkick.kick
