@@ -1,6 +1,6 @@
 name: EnhancedKick
 main: at.yawk.bukkit.enhancedkick.EnhancedKick
-version: 1.0
+version: ${version}
 description: Enhanced kicking for players that annoy you
 commands:
     ckick:
