@@ -27,7 +27,7 @@
 	</dependencies>
 	
 	<build>
-		<defaultGoal>clean install</defaultGoal>
+		<defaultGoal>clean package</defaultGoal>
 		<sourceDirectory>${basedir}/src</sourceDirectory>
 		<plugins>
 			<plugin>
